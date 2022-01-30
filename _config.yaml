@@ -8,6 +8,7 @@ description: >
 header_pages:
  - about.md
  - projects.md
+ - [pronomee](https://kappann.eu/pronomee)
 
 show_excerpts: false
 
