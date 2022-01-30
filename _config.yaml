@@ -5,11 +5,6 @@ author:
 description: > 
   a website i said i would never make
 
-header_pages:
- - about.md
- - projects.md
- - [pronomee](https://kappann.eu/pronomee)
-
 show_excerpts: false
 
 remote_theme: jekyll/minima
