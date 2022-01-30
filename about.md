@@ -1,4 +1,6 @@
-# about me
+---
+title:  about me
+---
 
 **in short**: i'm an italian ***agender person*** ([e/er](https://en.pronouns.page/@kappanneo)) who was able to see outside the italian cultural bubble and eventually managed to escape to sweden ([cv](https://github.com/kappanneo/cv/releases/latest/download/cv.pdf)). 
 check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-be-a-sambo-in-sweden)'s github: [harisont](https://github.com/harisont)
