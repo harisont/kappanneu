@@ -13,7 +13,7 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
-  date_format: "%Y-%M-%D"
+  date_format: "%Y-%b-%-d"
   social_links:
     github: kappanneo
     telegram: kappanneo
