@@ -1,4 +1,4 @@
-# hi
+# index
 
 [about me](https://kappann.eu/about)
 
