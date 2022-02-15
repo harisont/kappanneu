@@ -1,5 +1,5 @@
 # index
 
-[about me](https://kappann.eu/about)
+[about me](https://kappanneo.github.io/about)
 
-[stuff i made](https://kappann.eu/projects)
+[stuff i made](https://kappanneo.github.io/projects)
