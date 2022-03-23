@@ -4,4 +4,4 @@
 
 [stuff i made](https://kappanneo.github.io/projects)
 
-[stuff other cool people made](https://kappanneo.githb.io/not-by-me)
+[stuff other cool people made](https://kappanneo.github.io/not-by-me)
