@@ -25,3 +25,6 @@ minima:
     gitlab:
       - username: kappanneo
       - instance: gitlab.com
+
+plugins:
+  - jeckyl-feed
