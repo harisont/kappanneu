@@ -6,4 +6,4 @@
 
 [stuff other cool people made](https://kappann.eu/not-by-me)
 
-[all my very relevant opinions](https://kappann.eu/blahg)
+[all my very important opinions](https://kappann.eu/blahg)
