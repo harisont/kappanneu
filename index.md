@@ -1,5 +1,7 @@
 # index
 
+[blahg](https://kappanneo.github.io/blagh)
+
 [about me](https://kappanneo.github.io/about)
 
 [stuff i made](https://kappanneo.github.io/by-me)
