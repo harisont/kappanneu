@@ -1,11 +1,9 @@
 # index
 
-[blahg](https://kappanneo.github.io/blagh)
+[about me](https://kappann.eu/about)
 
-[about me](https://kappanneo.github.io/about)
+[stuff i made](https://kappann.eu/by-me)
 
-[stuff i made](https://kappanneo.github.io/by-me)
+[stuff other cool people made](https://kappann.eu/not-by-me)
 
-[stuff other cool people made](https://kappanneo.github.io/not-by-me)
-
-[all my very relevant opinions](https://https://kappanneo.github.io/blahg)
+[all my very relevant opinions](https://https://kappann.eu/blahg)
