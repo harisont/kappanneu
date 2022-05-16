@@ -1,6 +1,6 @@
 # index
 
-[about me](https://kappann.eu/about)
+[about me](https://kappann.eu/kappanneo)
 
 [stuff i made](https://kappann.eu/by-me)
 
