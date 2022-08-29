@@ -1,6 +1,6 @@
 # index
 
-[about me](https://harisont.github.io/kappanneo/kappanneo)
+[about me](https://harisont.github.io/kappanneo)
 
 [stuff i made](https://harisont.github.io/by-me)
 
